@@ -1,5 +1,7 @@
 # Reproducer for docker for mac + copy + symfony
 
+see https://github.com/moby/moby/issues/42148
+
 ## Installation
 
 ```
